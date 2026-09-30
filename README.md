@@ -1,16 +1,32 @@
-## Hi there 👋
+# Matteo Tonello 👋
 
-<!--
-**mtonell/mtonell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/tonello-matteo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:matteo.tonello@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **AI & Robotics Engineer** | Master's Graduate in Computer Engineering
+
+---
+<p align="center">
+  <a href="https://mtonell.github.io/projects">
+    <img src="https://img.shields.io/badge/🔍_Projects_Interactive_Page-58a6ff?style=for-the-badge" alt="Interactive Portfolio" width="300" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/mtonell">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mtonell&layout=donut&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&hide=jupyter%20notebook" alt="Languages Donut Chart" width="48%" />
+  </a>
+</p>
+
+<!-- Hidden GoatCounter Pixel -->
+<img src="https://mtonell.goatcounter.com/count?p=/github-readme" width="0" height="0" alt="" />
