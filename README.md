@@ -23,8 +23,6 @@
 
 ---
 
-### 📊 Programming Languages
-
 <p align="center">
   <a href="https://github.com/mtonell">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mtonell&layout=donut&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&hide=jupyter%20notebook" alt="Languages Donut Chart" width="35%" />
