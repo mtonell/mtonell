@@ -30,4 +30,4 @@
 </p>
 
 <!-- Hidden GitHub Profile Views Pixel -->
-![](https://komarev.com/ghpvc/?username=mtonell&style=pixel)
+<img src="https://komarev.com/ghpvc/?username=mtonell&style=pixel" alt="" />
