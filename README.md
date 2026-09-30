@@ -30,4 +30,4 @@
 </p>
 
 <!-- Hidden GoatCounter Pixel -->
-<img src="https://mtonell.goatcounter.com/count?p=/github-readme" width="0" height="0" alt="" />
+<img src="https://mtonell.goatcounter.com/count?p=/github-profile-readme&no_sessions=true" width="0" height="0" alt="" />
