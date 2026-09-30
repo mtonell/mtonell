@@ -29,5 +29,5 @@
   </a>
 </p>
 
-<!-- Hidden GoatCounter Pixel -->
-<img src="https://mtonell.goatcounter.com/count?p=/github-profile-readme&no_sessions=true" width="0" height="0" alt="" />
+<!-- Hidden GitHub Profile Views Pixel -->
+![](https://komarev.com/ghpvc/?username=mtonell&style=pixel)
